@@ -1,3 +1,4 @@
+//fdlj
 package pas3.common;
 
 import java.awt.image.BufferedImage;
